@@ -89,3 +89,14 @@ input{
     cursor: pointer;
     user-select: none;
 }
+#a-bottom{
+    display: inline-block;
+    color: #5f6368;
+    text-decoration: none;
+    white-space: nowrap;
+    padding-left: 27px;
+    margin: 0;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    line-height: 40px;
+}
